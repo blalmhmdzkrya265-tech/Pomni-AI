@@ -1,4 +1,4 @@
-import { Client } from 'meowsab';
+ import { Client } from 'meowsab';
 import { group, access } from "./system/control.js";
 import UltraDB from "./system/UltraDB.js";
 import sub from './sub.js';
@@ -10,7 +10,7 @@ const client = new Client({
   fromMe: false, 
   owners: [{
   "name": "Nagumo",
-  "jid": "212772382018@s.whatsapp.net",
+  "jid": "212779947734@s.whatsapp.net",
   "lid": "216647327604814@lid"
 },
   {
