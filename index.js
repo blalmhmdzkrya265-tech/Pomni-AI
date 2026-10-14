@@ -5,12 +5,12 @@ import sub from './sub.js';
 
 /* =========== Client ========== */
 const client = new Client({
-  phoneNumber: '212713507566', // Bot number
+  phoneNumber: '963982202146', // Bot number
   prefix: [".", "/", "!"],
   fromMe: false, 
   owners: [{
   "name": "SKY",
-  "jid": "212772382018@s.whatsapp.net",
+  "jid": "https://wa.me/208968043516029",
   "lid": "216647327604814@lid"
 },
   {
