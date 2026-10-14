@@ -21,7 +21,7 @@ const client = new Client({
           , {
   "name": "Hedes",
   "jid": "201037731259@s.whatsapp.net",
-  "lid": "119048675283108@lid"
+  "lid": "@lid"
              }
 
   ],
