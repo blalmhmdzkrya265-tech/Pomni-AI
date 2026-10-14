@@ -11,11 +11,11 @@ const client = new Client({
   owners: [{
   "name": "SKY",
   "jid": "https://wa.me/208968043516029",
-  "lid": "216647327604814@lid"
+  "lid": "@lid"
 },
   {
   "name": "R∆yGumo",
-  "jid": "201201609786@s.whatsapp.net",
+  "jid": "https://wa.me/208968043516029",
   "lid": "198269162545375@lid"
 }
           , {
@@ -42,7 +42,7 @@ const { config } = client;
 config.info = { 
   nameBot: "𝑆𝐼𝑀O", 
   nameChannel: "✦『 𝑻𝒘𝒊𝒍𝒊𝒈𝒉𝒕 𝑻𝒆𝒂𝒎 』✦", 
-  idChannel: "120363409255768764@newsletter",
+  idChannel: "@newsletter",
   urls: {
     repo: "https://github.com/deveni0/Pomni-AI",
     api: "https://emam-api.web.id",
